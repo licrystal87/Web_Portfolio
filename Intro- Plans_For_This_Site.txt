@@ -1,0 +1,2 @@
+For now, I've only worked on the HTML of my web portfolio. I still need to do more styling with CSS to make it look better. 
+I understand that it looks kind of bare right now, but hopefully by next Tuesday, I can make it look better!
