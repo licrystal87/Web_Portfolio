@@ -1,1 +1,3 @@
-# Web_Portfolio
+# Description
+
+For this web portfolio, I intended for it to be a platform where I can showcase some of the digital media projects that I've worked on this semester. This is still a work in progress and I plan to keep updating it as I get more projects and assignments completed. Additionally, I've also included some information about me, in terms of my major, interests, hobbies, etc  so that the visitor of the website can get to learn a little bit more about me as a person. 
